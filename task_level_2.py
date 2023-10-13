@@ -92,12 +92,12 @@ Task Number 7
 '''
 Task Number 8
 '''
-# a ,*c,b = Names
+# a ,*_,b = Names
 # print(a)
 # print(b)
 '''
 Task Number 9
 '''
-# a,b,*c = Names
+# a,b,*_ = Names
 # print(a)
 # print(b)
